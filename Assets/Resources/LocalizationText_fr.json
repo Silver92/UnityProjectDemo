@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "key": "Picture1_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture1_2",
+      "value": "fPicture1_2 Picture1_2 Picture1_2"
+    },
+    {
+      "key": "Picture1_3",
+      "value": "fPicture1_3 Picture1_3 Picture1_3 Picture1_3 Picture1_3"
+    },
+	{
+      "key": "Picture2_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture2_2",
+      "value": "fPicture2_2 Picture2_2 Picture2_2"
+    },
+    {
+      "key": "Picture2_3",
+      "value": "fPicture2_3 Picture2_3 Picture2_3 Picture2_3 Picture2_3"
+    },
+	{
+      "key": "Picture3_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture3_2",
+      "value": "fPicture3_2 Picture3_2 Picture3_2"
+    },
+    {
+      "key": "Picture3_3",
+      "value": "fPicture3_3 Picture3_3 Picture3_3 Picture3_3 Picture3_3"
+    },
+	{
+      "key": "Picture4_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture4_2",
+      "value": "fPicture4_2 Picture4_2 Picture4_2"
+    },
+    {
+      "key": "Picture4_3",
+      "value": "fPicture4_3 Picture4_3 Picture4_3 Picture4_3 Picture4_3"
+    },
+	{
+      "key": "Picture5_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture5_2",
+      "value": "fPicture5_2 Picture5_2 Picture5_2"
+    },
+    {
+      "key": "Picture5_3",
+      "value": "fPicture5_3 Picture5_3 Picture5_3 Picture5_3 Picture5_3"
+    },
+	{
+      "key": "Picture6_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture6_2",
+      "value": "fPicture6_2 Picture6_2 Picture6_2"
+    },
+    {
+      "key": "Picture6_3",
+      "value": "fPicture6_3 Picture6_3 Picture6_3 Picture6_3 Picture6_3"
+    },
+	{
+      "key": "Picture7_1",
+      "value": "fHello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello"
+    },
+    {
+      "key": "Picture7_2",
+      "value": "fPicture7_2 Picture7_2 Picture7_2"
+    },
+    {
+      "key": "Picture7_3",
+      "value": "fPicture7_3 Picture7_3 Picture7_3 Picture7_3 Picture7_3"
+    },
+    {
+	  "key": "Visual_Button",
+      "value": "f3D"
+    },
+    {
+	  "key": "Setting_Button",
+      "value": "fSetting"
+    },
+    {
+	  "key": "Normal_Toggle_Label",
+      "value": "fNormal"
+    },
+    {
+	  "key": "Echography_Toggle_Label",
+      "value": "fEchography"
+    },
+    {
+	  "key": "MRI_Toggle_Label",
+      "value": "fMRI"
+    },
+    {
+	  "key": "Severity_Slider_Text",
+      "value": "fSeverity"
+    },
+	{
+	  "key": "Scale_Slider_Text",
+      "value": "fScale"
+    },
+    {
+	  "key": "Heart_Main_Text",
+      "value": "fThe user can choose which 3D he wants to see. The user can zoom-in, zoom-out and rotate the modelisation whith his fingers. You need to have something to have a maximum and minimum possible zoom. Each 3D have some descriptions (texts or images) in a scrollable area. Also, each one have some options. For example, the heart can be seen with a  cross-sectional view, we can see its echography, etc. We have also a slider to play with the severity of the heart disease."
+    },
+    {
+	  "key": "Age_Slider_Text",
+      "value": "fAge"
+    },
+    {
+	  "key": "Hand_Main_Text",
+      "value": "fThe user can choose which 3D he wants to see. The user can zoom-in, zoom-out and rotate the modelisation whith his fingers. You need to have something to have a maximum and minimum possible zoom. Each 3D have some descriptions (texts or images) in a scrollable area. Also, each one have some options. For example, the heart can be seen with a  cross-sectional view, we can see its echography, etc. We have also a slider to play with the severity of the heart disease."
+    },
+    {
+	  "key": "Head_Main_Text",
+      "value": "fThe user can choose which 3D he wants to see. The user can zoom-in, zoom-out and rotate the modelisation whith his fingers. You need to have something to have a maximum and minimum possible zoom. Each 3D have some descriptions (texts or images) in a scrollable area. Also, each one have some options. For example, the heart can be seen with a  cross-sectional view, we can see its echography, etc. We have also a slider to play with the severity of the heart disease."
+    },
+    {
+	  "key": "Eye_Main_Text",
+      "value": "fThe user can choose which 3D he wants to see. The user can zoom-in, zoom-out and rotate the modelisation whith his fingers. You need to have something to have a maximum and minimum possible zoom. Each 3D have some descriptions (texts or images) in a scrollable area. Also, each one have some options. For example, the heart can be seen with a  cross-sectional view, we can see its echography, etc. We have also a slider to play with the severity of the heart disease."
+    },
+    {
+	  "key": "Heart_Menu_Bottun",
+      "value": "fHeart"
+    },
+	{
+	  "key": "Hand_Menu_Bottun",
+      "value": "fHand"
+    },
+	{
+	  "key": "Head_Menu_Bottun",
+      "value": "fHead"
+    },
+	{
+	  "key": "Eye_Menu_Bottun",
+      "value": "fEye"
+    },
+    {
+	  "key": "Language_Button_Text",
+      "value": "fLANGUAGES"
+    },
+    {
+	  "key": "Terms_Of_Use_Text",
+      "value": "fTERMS OF USE"
+    },
+    {
+	  "key": "References_Button_Text",
+      "value": "fREFERENCES"
+    },
+    {
+	  "key": "English_Text",
+      "value": "fENGLISH"
+    },
+    {
+	  "key": "French_Text",
+      "value": "fFRENCH"
+    },
+    {
+	  "key": "References_Text",
+      "value": "fThe user can choose which 3D he wants to see. The user can zoom-in, zoom-out and rotate the modelisation whith his fingers. You need to have something to have a maximum and minimum possible zoom. Each 3D have some descriptions (texts or images) in a scrollable area. Also, each one have some options. For example, the heart can be seen with a  cross-sectional view, we can see its echography, etc. We have also a slider to play with the severity of the heart disease."
+    }
+  ]
+}
