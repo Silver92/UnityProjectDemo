@@ -79,9 +79,6 @@ public class ModelBehaviour : MonoBehaviour {
     {
         float rotX = Input.GetAxis("Mouse X") * rotateSpeed;
         transform.Rotate(Vector3.up, -rotX, Space.Self);
-
-        float rotY = Input.GetAxis("Mouse Y") * rotateSpeed;
-        transform.Rotate(Vector3.right, -rotY, Space.Self);
     }
 
     //--------------------------------------------------------------------------
