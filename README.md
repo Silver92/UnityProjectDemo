@@ -1,10 +1,10 @@
 # Demo Project
 
-This is a demo project demostrating my coding style. All the credits are kept by Wen Xiao.
+This is a demo project demostrating my coding style. All the rights are deserved by Wen Xiao.
 
 ## Instruction
 
-The application frame is developed on Unity 2018.1.x for iOS and iPad 9"7. The screen resolution is 2048x1536.
+The application framework is developed on Unity 2018.1.x for iOS and iPad 9"7. 
 
 ### Part 1
 
