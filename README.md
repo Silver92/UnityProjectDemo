@@ -4,7 +4,7 @@ This is a demo project demostrating my coding style. All the rights are deserved
 
 ## Instruction
 
-The application framework is developed on Unity 2018.1.x for iOS and iPad 9"7. 
+The application framework is developed on Unity **2018.1.9f** for iOS and iPad 9"7 (2048 * 1536). 
 
 ### Part 1
 
@@ -14,10 +14,10 @@ The user will be able to scan 7 physical images. Each one will have a little 3D 
 
 The second part is a two persistent buttons. If the user clicks on the first button he can see some options to be able to select which 3D he want to display between a heart, a hand, a head and an eye. Each 3D model is able to be rotated and zoomed in and out. The user can see some informations on the screen and can trigger some specific action on each 3D (ex:  cross-sectional view)
 
-![Screen Shot 2019-01-25 at 10.58.42](/Users/silver/Desktop/Screen Shot 2019-01-25 at 10.58.42.png)
+![Screen Shot 2019-01-25 at 10.58.42](/Users/silver/Documents/Unity Projects/TestProject_Win/Screen Shot 2019-01-25 at 10.58.42.png)
 
 ### Others
 
 With the second button, the user can access to the references, see the terms of use and change dynamically the language. By default the language will load the corresponding user's system language or english. if the user change his language through this application, the system needs to save the preference to be able to use it when the application will ba start again.
 
-![Screen Shot 2019-01-25 at 10.58.23](/Users/silver/Desktop/Screen Shot 2019-01-25 at 10.58.23.png)
+![Screen Shot 2019-01-25 at 10.58.23](/Users/silver/Documents/Unity Projects/TestProject_Win/Screen Shot 2019-01-25 at 10.58.23.png)
