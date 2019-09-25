@@ -10,7 +10,7 @@ The application framework is developed on Unity **2018.1.9f** for iOS and iPad 9
 
 The user will be able to scan 7 physical images. Each one will have a little 3D to display and to anchor above the picture (the 3D will be animated). Each picture will also trigger a persistent thread of messages like on Facebook Messenger. A bubble animation and the message will appear after a specific amount of time. This augmented reality part is implemented by Vuforia.
 
-![Screen Shot 2019-09-25 at 00.17.21](https://github.com/Silver92/UnityProjectDemo/blob/master/Screen Shot 2019-09-25 at 00.17.21.png)
+![Screen Shot 2019-09-25 at 00.17.21](https://github.com/Silver92/UnityProjectDemo/blob/master/Screen%20Shot%202019-09-25%20at%2000.17.21.png)
 
 ### Part 2
 
